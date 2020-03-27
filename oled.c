@@ -1,5 +1,5 @@
 #include "iostm8s103f3.h"
-#include "iic.h"
+#include "i2c.h"
 #include "oled.h"
 
 void delay(unsigned int del)
